@@ -1,0 +1,21 @@
+
+Vcom.team4.ordermanagement.order.controller.OrderController#getOrders()Ljava/util/List;Ñ
+zC:/Users/Priyaguddinti/eclipse/sonar/OrderMS/src/main/java/com/team4/ordermanagement/order/controller/OrderController.java, ,('"1*ç
+1Ñ
+zC:/Users/Priyaguddinti/eclipse/sonar/OrderMS/src/main/java/com/team4/ordermanagement/order/controller/OrderController.java-	 -(û
+õ
+Ñ
+zC:/Users/Priyaguddinti/eclipse/sonar/OrderMS/src/main/java/com/team4/ordermanagement/order/controller/OrderController.java-	 -(:
+%04com.team4.ordermanagement.order.service.OrderService"__id*P*N<
+:com.team4.ordermanagement.order.controller.OrderController"
+orderServiceΩ∫
+Ñ
+zC:/Users/Priyaguddinti/eclipse/sonar/OrderMS/src/main/java/com/team4/ordermanagement/order/controller/OrderController.java-	 -(!
+%1java.util.List"Pcom.team4.ordermanagement.order.service.OrderService#getOrders()Ljava/util/List;*<
+:
+%04com.team4.ordermanagement.order.service.OrderService2getOrders()"ü
+Ñ
+zC:/Users/Priyaguddinti/eclipse/sonar/OrderMS/src/main/java/com/team4/ordermanagement/order/controller/OrderController.java- -("
+
+%1java.util.ListB><
+:com.team4.ordermanagement.order.controller.OrderController

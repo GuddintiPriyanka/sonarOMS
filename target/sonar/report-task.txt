@@ -1,0 +1,7 @@
+organization=guddintipriyanka
+projectKey=GuddintiPriyanka_sonarOMS
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.8621
+dashboardUrl=https://sonarcloud.io/dashboard?id=GuddintiPriyanka_sonarOMS
+ceTaskId=AXKnuwrKK6fcTQJKXymw
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXKnuwrKK6fcTQJKXymw
